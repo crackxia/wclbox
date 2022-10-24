@@ -1,0 +1,81 @@
+## Interface: 90207
+## Title: [ |cFF0099FFWclBox|r ] Wcl分数显示插件
+## DefaultState: enable
+## Version: v1.0.1
+## Author: crackxia(nga)
+## Notes: 用于显示wcl分数的插件
+## SavedVariables: WclBox_DB
+
+realm_5039.lua
+realm_5040.lua
+realm_5041.lua
+realm_5042.lua
+realm_5043.lua
+realm_5044.lua
+realm_5045.lua
+realm_5046.lua
+realm_5048.lua
+realm_5049.lua
+realm_5083.lua
+realm_5085.lua
+realm_5087.lua
+realm_5104.lua
+realm_5105.lua
+realm_5106.lua
+realm_5107.lua
+realm_5109.lua
+realm_5110.lua
+realm_5111.lua
+realm_5112.lua
+realm_5113.lua
+realm_5114.lua
+realm_5115.lua
+realm_5116.lua
+realm_5117.lua
+realm_5118.lua
+realm_5119.lua
+realm_5120.lua
+realm_5122.lua
+realm_5123.lua
+realm_5124.lua
+realm_5126.lua
+realm_5127.lua
+realm_5128.lua
+realm_5129.lua
+realm_5130.lua
+realm_5131.lua
+realm_5132.lua
+realm_5133.lua
+realm_5134.lua
+realm_5135.lua
+realm_5136.lua
+realm_5137.lua
+realm_5138.lua
+realm_5139.lua
+realm_5140.lua
+realm_5141.lua
+realm_5142.lua
+realm_5143.lua
+realm_5144.lua
+realm_5145.lua
+realm_5146.lua
+realm_5147.lua
+realm_5148.lua
+realm_5150.lua
+realm_5152.lua
+realm_5153.lua
+realm_5154.lua
+realm_5155.lua
+realm_5157.lua
+realm_5158.lua
+realm_5159.lua
+realm_5160.lua
+realm_5162.lua
+realm_5164.lua
+realm_5165.lua
+realm_5169.lua
+realm_5170.lua
+realm_5173.lua
+realm_5188.lua
+realm_5189.lua
+WclBox.lua
