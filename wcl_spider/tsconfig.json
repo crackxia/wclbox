@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    //生成声明文件
+    "declaration": true,
+    //移除注释
+    "removeComments": true,
+    //强制严格模式
+    "alwaysStrict": true,
+    "target": "es2020",
+    "sourceMap": true,
+    "lib": [
+      "es2020",
+      "dom",
+      "es6",
+      "es2016.array.include"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

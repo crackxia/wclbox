@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc&node app.js sync 5115"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.17.1",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "lodash": "^4.17.21",
+    "xutility": "^3.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.2"
+  }
+}
