@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tsc&node app.js sync 5115"
+    "test": "tsc&node app.js 5115"
   },
   "keywords": [],
   "author": "",
